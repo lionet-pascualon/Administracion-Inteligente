@@ -140,7 +140,7 @@ class AtomoVozReal(QWidget):
 
         self.setAttribute(Qt.WidgetAttribute.WA_TranslucentBackground, True)
 
-        self.setFixedSize(650, 650)
+        self.setFixedSize(400, 400)
 
 
 
